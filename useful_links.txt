@@ -11,12 +11,16 @@ http://www.robocuprescue.org/wiki/index.php?title=Publications_on_Virtual_Robots
 
 Other teams
 -----------
+http://www.jointrescueforces.eu/wiki/tiki-index.php
 
 
 Frameworks
 ----------
 http://sourceforge.net/projects/moast/
 http://sourceforge.net/projects/usarsim/
+http://sourceforge.net/projects/usarsimros/
+http://sakura.meijo-u.ac.jp/~robotvirtual/
+http://usarsim.cvs.sourceforge.net/viewvc/usarsim/usarsim/Tools/WSS/   - virtual server for comunication between robots during game
 
 Algorithms
 ----------

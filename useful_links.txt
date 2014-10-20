@@ -1,0 +1,22 @@
+Useful links for Robocup rescue virtual robots competition
+==========================================================
+Competition details
+-------------------
+http://www.robocuprescue.org/wiki/index.php?title=VRCompetitions
+
+Publications
+------------
+http://www.robocuprescue.org/wiki/index.php?title=Publications_on_Virtual_Robots_and_USARSim
+
+
+Other teams
+-----------
+
+
+Frameworks
+----------
+http://sourceforge.net/projects/moast/
+http://sourceforge.net/projects/usarsim/
+
+Algorithms
+----------
